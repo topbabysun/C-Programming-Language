@@ -14,7 +14,7 @@ main()
 	while (getlines(line, MAXLINE) > 0)
 		printf("\t%g\n", sum += atof(line));
 	return 0;
-324643
+
 }
 
 
